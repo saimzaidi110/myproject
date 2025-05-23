@@ -8,8 +8,8 @@ import CategoryPage from './CategoryPage.jsx'
 
 createRoot(document.getElementById('root')).render(
 
-  //<Counter/>
+  <Counter/>
   //<App/>
-<UseEffect/>
+//<UseEffect/>
 //<CategoryPage/>
 )
